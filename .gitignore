@@ -1,6 +1,6 @@
 *.project
 *.idea
-#修改有问题吗？hao de 
+
 
 
 # Compiled class file
@@ -8,6 +8,7 @@
 
 # Log file
 *.log
+#中文乱码问题
 
 # BlueJ files
 *.ctxt
